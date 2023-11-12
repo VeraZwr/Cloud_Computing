@@ -7,6 +7,8 @@
   eval "$(/opt/homebrew/bin/brew shellenv)"
   brew -v #check installation successfully
   brew install [software name]
-4. Install qemu
+
+https://siytek.com/nested-virtualization-on-google-cloud/?utm_content=cmp-true
+5. Install qemu
    brew install qemu
    
