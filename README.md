@@ -9,6 +9,8 @@
   brew install [software name]
 
 https://siytek.com/nested-virtualization-on-google-cloud/?utm_content=cmp-true
+
+
 5. Install qemu
    brew install qemu
    
